@@ -250,12 +250,12 @@ h6 {
 }
 
 #main {
-  margin-left: 300px;
+  margin-left: 350px;
 }
 
 @media (max-width: 1199px) {
   #header {
-    left: -300px;
+    left: -350px;
   }
 
   #main {
@@ -322,7 +322,7 @@ h6 {
   top: 15px;
   z-index: 9998;
   border: 0;
-  font-size: 50px;
+  font-size: 24px;
   transition: all 0.4s;
   outline: none !important;
   background-color: #14de79; /* blue #149ddd*/
@@ -333,7 +333,7 @@ h6 {
   align-items: center;
   justify-content: center;
   line-height: 0;
-  border-radius: 100px;
+  border-radius: 50px;
   cursor: pointer;
 }
 
