@@ -435,7 +435,7 @@ section {
   margin-bottom: 20px;
   padding-bottom: 20px;
   position: relative;
-  color: #0e7841; /*dark blue #173b6c*/
+  color: #249659; /*dark blue #173b6c, #0e7841*/
 }
 
 .section-title h2::after {
@@ -459,7 +459,7 @@ section {
 .about .content h3 {
   font-weight: 700;
   font-size: 26px;
-  color: #0e7841; /*dark blue #173b6c*/
+  color: #249659; /*dark blue #173b6c, #0e7841*/
 }
 
 .about .content ul {
