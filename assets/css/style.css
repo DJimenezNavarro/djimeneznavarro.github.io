@@ -322,12 +322,12 @@ h6 {
   top: 15px;
   z-index: 9998;
   border: 0;
-  font-size: 24px;
+  font-size: 80px;
   transition: all 0.4s;
   outline: none !important;
   background-color: #14de79; /* blue #149ddd*/
   color: #fff;
-  width: 700px;
+  width: 40px;
   height: 40px;
   display: inline-flex;
   align-items: center;
