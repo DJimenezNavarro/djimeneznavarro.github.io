@@ -1349,6 +1349,11 @@ section {
     align-items: stretch;
   }
 
+  .publication-box-highlight {
+    flex-direction: column;
+    align-items: stretch;
+  }
+
   .image {
     flex: none;
     width: 100%;
