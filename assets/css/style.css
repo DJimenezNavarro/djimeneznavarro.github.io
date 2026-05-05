@@ -1254,7 +1254,7 @@ section {
   margin-bottom: 20px;
   background-color: #fae7b5; /*?? #ffefc1 #ffe599 */ 
   padding: 10px;
-  box-shadow: 0 0 10px rgba(0, 0, 0, 0.75); /* Add box shadow effect */
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.7); /* Add box shadow effect */
 }
 
 .image {
